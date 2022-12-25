@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushkesarwani
-- 👀 I’m interested in Computer Programming, Web development and other programming languages
-- 🌱 I’m currently learning Pythonn and C++. I have already learned JAVA, JavaScript, HTML, CSS, C-language, Node.js.
+- 👀 I’m interested in Computer Programming, Web development and other programming languages.
+- 🌱 I have knowledge in JAVA, C/C++, Python, JavaScript, HTML, CSS, Node.js, ExpressJS, and MongoDB. Moreover, I have knowledge in Data Structures and conmpetitive programming.
 - 💞️ I’m looking to collaborate on any software Internship or for good software job profile.
 - 📫 You can reach me on Twitter and LinkedIn. 
 - On Twitter, you can reach me out here : https://twitter.com/Hy_piyush
